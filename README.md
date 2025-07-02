@@ -63,10 +63,8 @@ To clean up the desktop layout issues and ensure pixel-perfect alignment with th
 
 I'd also like to dive deeper into CSS Grid subgrid when it gains broader browser support, as it could simplify some of the alignment challenges I faced.
 
-### Useful resources
 
-- [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - This was my go-to reference for understanding grid properties. The visual examples really helped me grasp how `grid-template-areas` works.
-- [MDN Object-fit Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit) - Essential for understanding how to handle images in grid layouts without distortion.
-- [Tailwind CSS Grid Documentation](https://tailwindcss.com/docs/grid-template-columns) - Helped me understand when to use Tailwind utilities vs custom CSS for complex layouts.
+
+
 
 AUTHOR : https://www.frontendmentor.io/profile/Abayneetsingh
