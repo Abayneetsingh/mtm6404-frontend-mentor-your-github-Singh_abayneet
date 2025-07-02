@@ -69,6 +69,4 @@ I'd also like to dive deeper into CSS Grid subgrid when it gains broader browser
 - [MDN Object-fit Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit) - Essential for understanding how to handle images in grid layouts without distortion.
 - [Tailwind CSS Grid Documentation](https://tailwindcss.com/docs/grid-template-columns) - Helped me understand when to use Tailwind utilities vs custom CSS for complex layouts.
 
-## Author
-
-- Frontend Mentor - [@kmulqueen](https://www.frontendmentor.io/profile/kmulqueen)
+AUTHOR : https://www.frontendmentor.io/profile/Abayneetsingh
